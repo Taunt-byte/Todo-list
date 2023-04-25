@@ -1,71 +1,69 @@
 body {
-    margin: 0;
-    padding: 0;
-  }
-  
-  .navbar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #333;
-    color: #fff;
-    padding: 10px;
-  }
-  
-  .navbar a {
-    text-decoration: none;
-    color: #fff;
-    margin: 0 10px;
-  }
-  
-  .navbar .logo {
-    font-size: 24px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif
-  }
-  
-  .nav-links {
-    list-style: none;
-    display: flex;
-    margin: 0;
-    padding: 0;
-  }
-  
-  .nav-links li {
-    margin: 0 10px;
-  }
-  
-  footer {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background-color: #333;
-    color: #fff;
-    padding: 10px;
-  }
-  
-  ul {
-    margin-bottom: 60px; /* altura do footer + um valor de margem extra */
-  }
-  
-  .container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 20px;
-    text-align: center;
-  }
-  .geral{
-    padding-top: 10px;
-    text-align: center;
-  }
-  .geral h1{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-  }
-.tarefas{
-    text-align: center;
-    list-style: none;
+  margin: 0;
+  padding: 0;
 }
-  .conteudo{
-    padding-top: 10px;
-    text-align: center;
-  }
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  padding: 10px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  margin: 0 10px;
+}
+
+.navbar .logo {
+  font-size: 24px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links li {
+  margin: 0 10px;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  padding: 10px;
+}
+
+ul {
+  margin-bottom: 60px; /* altura do footer + um valor de margem extra */
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  text-align: center;
+}
+.geral {
+  padding-top: 10px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tarefas {
+  text-align: center;
+  list-style: none;
+}
+.conteudo {
+  padding-top: 10px;
+  text-align: center;
+}
