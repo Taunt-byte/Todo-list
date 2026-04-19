@@ -37,7 +37,7 @@ Este projeto foi desenvolvido com fins **educacionais**, visando consolidar conh
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/jake.git
+git clone https://github.com/Taunt-byte/Todo-list.git
 ```
 ## Estrutura do Projeto
 ```bash
